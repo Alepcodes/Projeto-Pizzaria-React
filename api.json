@@ -4,35 +4,35 @@
             "id": "1",
             "nome": "Pizza de Peperoni",
             "preco": 39.9,
-            "descriçao": "Uma pizza muito boa",
+            "descricao": "Uma pizza muito boa",
             "promocao": false
         },
         {
             "id": "2",
             "nome": "Pizza de Calabresa",
             "preco": 31.9,
-            "descriçao": "Uma pizza muito boa",
+            "descricao": "Uma pizza muito boa",
             "promocao": true
         },
         {
             "id": "3",
             "nome": "Pizza de Fango",
             "preco": 31.9,
-            "descriçao": "Uma pizza muito boa",
+            "descricao": "Uma pizza muito boa",
             "promocao": true
         },
         {
             "id": "4",
             "nome": "Pizza de Chocolate",
             "preco": 39.9,
-            "descriçao": "Uma pizza muito boa",
+            "descricao": "Uma pizza muito boa",
             "promocao": false
         },
         {
             "id": "5",
             "nome": "Pizza de Alho Frito",
             "preco": 49.9,
-            "descriçao": "Uma pizza muito boa",
+            "descricao": "Uma pizza muito boa",
             "promocao": false
         }
     ]
